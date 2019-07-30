@@ -1,0 +1,11 @@
+files:
+  include:
+    - 'app/assets/stylesheets/**/*.s+(a|c)ss'
+    - 'app/javascript/**/*.s+(a|c)ss'
+  ignore:
+    - 'vendor/**/*.s+(a|c)ss'
+
+rules:
+  force-element-nesting: 0
+  nesting-depth:
+    max_depth: 4

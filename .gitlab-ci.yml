@@ -1,0 +1,2 @@
+include:
+  - 'https://gitlab.com/initforthe/rails-template/raw/master/.gitlab-ci-template.yml'
